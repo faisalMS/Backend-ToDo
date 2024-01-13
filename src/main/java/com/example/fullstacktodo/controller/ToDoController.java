@@ -3,7 +3,7 @@ package com.example.fullstacktodo.controller;
 import com.example.fullstacktodo.dto.CreateToDoDto;
 import com.example.fullstacktodo.dto.ToDoDto;
 import com.example.fullstacktodo.dto.UpdateToDoDto;
-import com.example.fullstacktodo.sevice.ToDoService;
+import com.example.fullstacktodo.service.ToDoService;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

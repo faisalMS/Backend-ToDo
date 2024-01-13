@@ -1,4 +1,4 @@
-package com.example.fullstacktodo.sevice;
+package com.example.fullstacktodo.service;
 
 import com.example.fullstacktodo.dto.CreateToDoDto;
 import com.example.fullstacktodo.dto.ToDoDto;
