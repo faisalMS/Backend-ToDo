@@ -1,6 +1,7 @@
 ##Full Stack  ToDo Spring Boot
 
 ##Setup
+
 createdb fullStackToDo
 
 #IntelliJ
