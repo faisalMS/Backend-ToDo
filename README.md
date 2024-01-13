@@ -1,6 +1,6 @@
-##Full Stack  ToDo Spring Boot
+#Full Stack  ToDo Spring Boot
 
-##Setup
+#Setup
 
 createdb fullStackToDo
 
@@ -9,7 +9,7 @@ createdb fullStackToDo
 2. Click on debug icon
 
 
-##VSCode
+#VSCode
 
 #Install extensions:
 -Spring Boot Tools
@@ -21,7 +21,7 @@ Go to the Spring Boot Dashboard, click on "debug" icon.
 Database migrations are run automatically.
 
 
-##Configuration
+#Configuration
 
 #IntelliJ
 
