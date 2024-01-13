@@ -2,7 +2,9 @@
 
 # Setup
 
-`createdb fullStackToDo`
+```
+createdb fullstackbook-todo-springboot
+```
 
 # IntelliJ
 1. Open the project
