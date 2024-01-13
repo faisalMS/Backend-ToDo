@@ -11,7 +11,7 @@ createdb fullStackToDo
 
 # VSCode
 
-# Install extensions:
+### Install extensions:
 - Spring Boot Tools
 - Spring Boot Dashboard
 - Spring Boot Extension Pack
@@ -23,12 +23,12 @@ Database migrations are run automatically.
 
 # Configuration
 
-# IntelliJ
+## IntelliJ
 
 The environment variables can be changed by clicking on the "green hammer" icon -> Edit Configurations -> 
 Environment -> Environment Variables.
 
-# VSCode
+## VSCode
 
 The environment variables can be changed by using a .env file. The file name and path can be changed by going
 to Run and Debug -> "cog" icon to open launch.json.
