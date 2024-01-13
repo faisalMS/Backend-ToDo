@@ -2,7 +2,7 @@
 
 # Setup
 
-createdb fullStackToDo
+`createdb fullStackToDo`
 
 # IntelliJ
 1. Open the project
