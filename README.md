@@ -3,7 +3,7 @@
 # Setup
 
 ```
-createdb fullstackbook-todo-springboot
+createdb fullstacktodo-springboot
 ```
 
 # IntelliJ
