@@ -6,4 +6,5 @@ import lombok.Data;
 public class CreateToDoDto {
     private String name;
     private Boolean completed;
+    private Integer kk;
 }
